@@ -22,6 +22,7 @@ A simple Java console application that allows administrators to manage student r
 
 1. Clone the repository:
    ```bash
+   git clone https://github.com/Nouralmawal/Simple-Java-console-application-.git
    
 
 ## Dependency Manage
