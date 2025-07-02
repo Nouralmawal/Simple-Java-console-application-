@@ -1,18 +1,28 @@
-## Getting Started
+# Student Management System (Java Console App)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple Java console application that allows administrators to manage student records using SQLite. This project was created as part of my final project for the Java Programming course.
 
-## Folder Structure
+## 📚 Features
 
-The workspace contains two folders by default, where:
+- Add new students with name, ID, GPA, and major
+- View all student records in a table
+- Update student information
+- Delete student records
+- Calculate and display GPA
+- Admin login authentication
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🛠️ Technologies Used
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java (JDK 8+)
+- SQLite (JDBC)
+- Java Swing (if GUI used, otherwise remove)
+- Git
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## ▶️ How to Run
 
-## Dependency Management
+1. Clone the repository:
+   ```bash
+   
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Dependency Manage
+More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
