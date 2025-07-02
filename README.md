@@ -18,6 +18,11 @@ A simple Java console application that allows administrators to manage student r
 - Java Swing (if GUI used, otherwise remove)
 - Git
 
+- ![image](https://github.com/user-attachments/assets/2cb73122-664b-4c6e-a793-7b6c660e156c)
+- ![image](https://github.com/user-attachments/assets/2254b760-540f-4dfc-8249-d1e232fe51c1)
+
+
+
 ## ▶️ How to Run
 
 1. Clone the repository:
